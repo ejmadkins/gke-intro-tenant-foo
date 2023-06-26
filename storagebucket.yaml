@@ -1,0 +1,6 @@
+apiVersion: storage.cnrm.cloud.google.com/v1beta1
+kind: StorageBucket
+metadata:
+  name: gke-intro-tenant-foo-bucket
+spec:
+  location: europe-west2
